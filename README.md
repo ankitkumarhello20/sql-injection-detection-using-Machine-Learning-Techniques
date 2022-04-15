@@ -20,7 +20,7 @@ The below mentioned category of features are extracted from the URL data:
 2.   Character based Features<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this category 4 features are extracted.
 
-*The details pertaining to these features are mentioned in the [SQL injected queries Feature Extraction.ipynb.](https://github.com/ankitkumarhello20/sql-injection-detection-using-Machine-Learning-Techniques/blob/main/Sql_injected_queries_features_extraction.ipynb)[![Open In Colab](https://colab.research.google.com/github/ankitkumarhello20/sql-injection-dataset/blob/main/Sql_injected_queries_features_extraction.ipynb)*
+*The details pertaining to these features are mentioned in the [SQL injected queries Feature Extraction.ipynb.](https://github.com/ankitkumarhello20/sql-injection-detection-using-Machine-Learning-Techniques/blob/main/Sql_injected_queries_features_extraction.ipynb)[![Open In Colab]](https://colab.research.google.com/github/ankitkumarhello20/sql-injection-dataset/blob/main/Sql_injected_queries_features_extraction.ipynb)*
 
 So, all together 21 features are extracted from the 10,000 URL dataset and are stored in '[sqlqueriesdata.csv](https://github.com/ankitkumarhello20/sql-injection-detection-using-Machine-Learning-Techniques/blob/main/sqlqueriesdata.csv)' file in the DataFiles folder.<br>
 The features are referenced from the research paper.'[Ensemble Machine Learning Approaches for Detection of SQL Injection Attack --By Umar Farooq](https://hrcak.srce.hr/file/367636)'

@@ -1,6 +1,6 @@
 # Sql-injection-detection-using-Machine-Learning-Techniques
 
-##Objective
+## Objective
 SQL injection is a code injection technique in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).The objective of this project is to train ensemble machine learning models. Both injected and normal sql queries to form a dataset along with plain text as we also want our model to differentiate between query and plaint text and from them required queries and queries-based features are extracted. The performance level of each model is measured and compared.
 We have implemented the model prescribed by the research paper which would be cited in refercences.
 This research paper didn't specify any dataset ehich is used and no implementation is given.So we resort to an attempt to try getting the best accuracy from the trained model.
